@@ -1,0 +1,11 @@
+{
+  "stage": 2,
+  "player_name": "doom",
+  "player_max_hp": 210,
+  "player_hp": 210,
+  "player_strength": 33,
+  "player_speed": 4,
+  "difficulty_level": 2,
+  "enemies_defeated": 2,
+  "fragments": 2
+}
